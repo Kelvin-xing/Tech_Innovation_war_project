@@ -1,0 +1,26 @@
+\contentsline {section}{\numberline {1}US Tech War Timeline in the 21st Century}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}China}{3}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}Pre-Trump Era}{3}{subsubsection.1.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.2}Trump Administration}{3}{subsubsection.1.1.2}%
+\contentsline {subsubsection}{\numberline {1.1.3}Biden Administration}{8}{subsubsection.1.1.3}%
+\contentsline {subsection}{\numberline {1.2}European Countries}{10}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}Trump Administration}{10}{subsubsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}Biden Administration}{10}{subsubsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.3}India}{11}{subsection.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1}Trump Administration}{11}{subsubsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.4}Japan}{11}{subsection.1.4}%
+\contentsline {subsubsection}{\numberline {1.4.1}Trump Administration}{11}{subsubsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.5}Northern American Countries}{12}{subsection.1.5}%
+\contentsline {subsubsection}{\numberline {1.5.1}Trump Administration}{12}{subsubsection.1.5.1}%
+\contentsline {subsubsection}{\numberline {1.5.2}Biden Administration}{13}{subsubsection.1.5.2}%
+\contentsline {section}{\numberline {2}US Policy in the Post-war Era with U.K.}{13}{section.2}%
+\contentsline {section}{\numberline {3}US Policy with Eastern Countries in Late 20th Century}{14}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Japan}{14}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}South Korea}{15}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Hong Kong}{16}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Taiwan}{16}{subsection.3.4}%
+\contentsline {section}{\numberline {4}Paper Summary}{16}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Innovation and Trade Policy}{16}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Measurement of Innovation/ Tech Licensing}{16}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Date Sources}{17}{subsection.4.3}%
+\contentsline {section}{Bibliography}{18}{section*.2}%

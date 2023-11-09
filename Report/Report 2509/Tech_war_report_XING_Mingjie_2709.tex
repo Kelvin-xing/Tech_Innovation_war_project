@@ -1,0 +1,308 @@
+% This is a simple template for a LaTeX document using the "article" class.
+% See "book", "report", "letter" for other types of document.
+
+\documentclass[12pt]{article} % use larger type; default would be 10pt
+
+\usepackage[utf8]{inputenc} % set input encoding (not needed with XeLaTeX)
+
+%%% Examples of Article customizations
+% These packages are optional, depending whether you want the features they provide.
+% See the LaTeX Companion or other references for full information.
+
+%%% PAGE DIMENSIONS
+\usepackage{geometry} % to change the page dimensions
+\geometry{a4paper} % or letterpaper (US) or a5paper or....
+\usepackage{setspace}
+\usepackage{parskip}
+\parskip = 0.3 \baselineskip %\advance\parskip by 0pt plus 2pt% to change between paragraphs space
+% \geometry{margin=2in} % for example, change the margins to 2 inches all round
+% \geometry{landscape} % set up the page for landscape
+%   read geometry.pdf for detailed page layout information
+
+% \usepackage{gravarphicx} % support the \includegravarphics command and options
+% \usepackage[parfill]{parskip} % Activate to begin paragraphs with an empty line rather than an indent
+
+%%% PACKAGES
+\usepackage{booktabs} % for much better looking tables
+\usepackage{array} % for better arrays (eg matrices) in maths
+\usepackage{paralist} % very flexible & customisable lists (eg. enumerate/itemize, etc.)
+\usepackage{verbatim} % adds environment for commenting out blocks of text & for better verbatim
+\usepackage{subfig} % make it possible to include more than one captioned figure/table in a single float
+% These packages are all incorporated in the memoir class to one degree or another...
+\usepackage[fleqn]{amsmath}
+\usepackage{amssymb}
+\usepackage{enumitem}
+\usepackage{amsthm}
+\usepackage{graphicx}
+\usepackage{filecontents}
+\usepackage{natbib}
+\usepackage{blindtext}
+\usepackage{titlesec}
+
+
+%%% HEADERS & FOOTERS
+\usepackage{fancyhdr} % This should be set AFTER setting up the page geometry
+\pagestyle{fancy} % options: empty , plain , fancy
+\renewcommand{\headrulewidth}{0pt} % customise the layout...
+\lhead{}\chead{}\rhead{}
+\lfoot{}\cfoot{\thepage}\rfoot{}
+
+%%% SECTION TITLE APPEARANCE
+\usepackage{sectsty}
+\allsectionsfont{\rmfamily\bfseries\upshape} % (See the fntguide.pdf for font help)
+% (This matches ConTeXt defaults)
+
+%%% ToC (table of contents) APPEARANCE
+\usepackage[nottoc,notlof,notlot]{tocbibind} % Put the bibliography in the ToC
+\usepackage[titles,subfigure]{tocloft} % Alter the style of the Table of Contents
+\renewcommand{\cftsecfont}{\rmfamily\mdseries\upshape}
+\renewcommand{\cftsecpagefont}{\rmfamily\mdseries\upshape} % No bold!
+
+\usepackage[colorlinks,citecolor=black,urlcolor=black,bookmarks=false,hypertexnames=true]{hyperref} 
+%%% END Article customizations
+
+
+
+%%% The "real" document content comes below...
+
+\title{US Tech and Trade Policy Report}
+\author{Xing Mingjie}
+\date{\today} % Activate to display a given date or no date (if empty),
+         % otherwise the current date is printed 
+
+\begin{document}
+\maketitle
+
+\tableofcontents
+
+\newpage
+
+\section{US Tech War Timeline in the 21st Century}
+	\subsection{China}
+		\subsubsection{Pre-Trump Era}
+			\begin{itemize}
+			\item	Obama complaints at WTO in joint with EU and Japan on China's control of rare earths
+				\begin{itemize}
+				\item	\textbf{Time}: 14 March 2012
+				\item \textbf{Target}: China's restriction on exporting rare earth metals
+				\item \textbf{Demand}: Force the Chinese to halt their export restrictions of rare earths
+				\item \textbf{Response}: New China News Agency calls the lawsuit "rash and unfair"; Li Weimin, Foreign Ministry spokesman said  “China hopes other countries can shoulder responsibility for supplies and can find alternative resources.”
+				\item \textbf{Source}: \url{https://www.latimes.com/business/la-xpm-2012-mar-14-la-fi-obama-china-20120314-story.html}; \url{https://www.cfr.org/interview/challenging-chinas-trade-practices}; \url{https://www.cfr.org/timeline/us-china-relations}
+				\end{itemize}
+			\item Obama complaints at WTO on China's subsidies to aluminum producers
+				\begin{itemize}
+				\item	\textbf{Time}: 12 Jan 2017
+				\item \textbf{Target}: China's subsidies to primary aluminum producers
+				\item \textbf{Demand}: United States urges China to reduce primary aluminum excess capacity, takes action to level the playing field
+				\item \textbf{Source}: \url{https://ustr.gov/about-us/policy-offices/press-office/press-releases/2017/january/Obama-Administration-Files-WTO-Complaint-China-Aluminum}
+				\end{itemize}
+			\item More Obama Administration's trade enforcement record on \url{chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://ustr.gov/sites/default/files/12152016-FACTSHEET_trade_enforcement_highlights.pdf}
+			\end{itemize}
+		
+		\subsubsection{Trump Era}
+			\begin{itemize}
+			\item	Tariff on China imports following 301 investigation
+				\begin{itemize}
+				\item \textbf{Time}: 22 Mar 2018
+				\item \textbf{Act:} Donald Trump set in motion tariffs on as much as \$60 billion in Chinese imports to the U.S. on Thursday and accused the Chinese of high-tech thievery. The list of subjects will cover aeronautics, modern rail, new-energy vehicles and high-tech products.
+				\item \textbf{Response}: China responded early Friday by announcing a list of U.S. goods, including pork, apples and steel pipe, it said may be hit with higher import duties.
+				\item	\textbf{Source:} \url{https://apnews.com/article/73e5e5aa7be2408892e9904d642d2137}; \url{https://ustr.gov/about-us/policy-offices/press-office/fact-sheets/2018/march/section-301-fact-sheet}; \url{https://www.cnbc.com/2018/03/22/trump-moves-to-slap-china-with-50-billion-in-tariffs-over-intellectual-property-theft.html}
+				\end{itemize}
+
+			\item	Tariff on cars, hard disks and aircraft parts
+				\begin{itemize}
+				\item \textbf{Time}: 06 Jul 2018
+				\item \textbf{Act:} US places 25\% duties on around US\$34 billion of imports from China, including cars, hard disks and aircraft parts
+				\item \textbf{Response}: China retaliates by imposing a 25 per cent tariff on 545 goods originating from the US worth US\$34 billion, including agricultural products, automobiles and aquatic products.
+				\item	\textbf{Source:} \url{https://www.scmp.com/economy/china-economy/article/3146489/us-china-trade-war-timeline-key-dates-and-events-july-2018}; \url{https://www.cnbc.com/2018/03/22/trump-moves-to-slap-china-with-50-billion-in-tariffs-over-intellectual-property-theft.html}
+				\end{itemize}
+			
+			\item	Pence Speech Signals Hard-Line Approach
+				\begin{itemize}
+				\item \textbf{Time}: 04 Oct 2018
+				\item \textbf{Act:} Pence says the United States will prioritize competition over cooperation by using tariffs to combat “economic aggression.” He also condemns what he calls growing Chinese military aggression, especially in the South China Sea, criticizes increased censorship and religious persecution by the Chinese government, and accuses China of stealing American intellectual property and interfering in U.S. elections.
+				\item \textbf{Response}: Hua Chunying Makes Clear China's Position in Response to US Leader's Groundless Accusations Against China
+				\item	\textbf{Source:} \url{https://www.cfr.org/timeline/us-china-relations}; \url{https://trumpwhitehouse.archives.gov/briefings-statements/remarks-vice-president-pence-administrations-policy-toward-china/}; \url{https://www.fmprc.gov.cn/mfa_eng/xwfw_665399/s2510_665401/2535_665405/201810/t20181005_696937.html}
+				\end{itemize}
+			
+			\item U.S. Justice Department alleges Huawei and Meng violated trade sanctions against Iran and committed fraud and requests her extradition
+				\begin{itemize}
+				\item \textbf{Time}: 01 Dec 2018
+				\item \textbf{Act:} Canada Arrests Meng Wanzhou
+				\item \textbf{Response}: China detains two Canadian citizens, who officials accuse of undermining China’s national security
+				\item	\textbf{Source:} \url{https://www.justice.gov/opa/pr/chinese-telecommunications-conglomerate-huawei-and-huawei-cfo-wanzhou-meng-charged-financial}; \url{http://www.xinhuanet.com/english/2020-08/21/c_139306059.htm}
+				\end{itemize}
+		
+				
+			\end{itemize}
+		\subsubsection{Biden Era}
+			\begin{itemize}
+			\item	
+				\begin{itemize}
+				\item	
+				\end{itemize}
+			\end{itemize}
+			
+	\subsection{European Countries}
+		\subsubsection{Pre-Trump Era}
+			\begin{itemize}
+			\item	
+				\begin{itemize}
+				\item	
+				\end{itemize}
+			\end{itemize}
+		\subsubsection{Trump Era}
+			\begin{itemize}
+			\item	
+				\begin{itemize}
+				\item	
+				\end{itemize}
+			\end{itemize}
+		\subsubsection{Biden Era}
+			\begin{itemize}
+			\item	
+				\begin{itemize}
+				\item	
+				\end{itemize}
+			\end{itemize}
+			
+	\subsection{India}
+		\subsubsection{Pre-Trump Era}
+			\begin{itemize}
+			\item	
+				\begin{itemize}
+				\item	
+				\end{itemize}
+			\end{itemize}
+		\subsubsection{Trump Era}
+			\begin{itemize}
+			\item	
+				\begin{itemize}
+				\item	
+				\end{itemize}
+			\end{itemize}
+		\subsubsection{Biden Era}
+			\begin{itemize}
+			\item	
+				\begin{itemize}
+				\item	
+				\end{itemize}
+			\end{itemize}
+			
+	\subsection{Japan}
+		\subsubsection{Pre-Trump Era}
+			\begin{itemize}
+			\item	
+				\begin{itemize}
+				\item	
+				\end{itemize}
+			\end{itemize}
+		\subsubsection{Trump Era}
+			\begin{itemize}
+			\item	
+				\begin{itemize}
+				\item	
+				\end{itemize}
+			\end{itemize}
+		\subsubsection{Biden Era}
+			\begin{itemize}
+			\item	
+				\begin{itemize}
+				\item	
+				\end{itemize}
+			\end{itemize}
+	
+		\subsection{Northern American Countries}
+		\subsubsection{Pre-Trump Era}
+			\begin{itemize}
+			\item	
+				\begin{itemize}
+				\item	
+				\end{itemize}
+			\end{itemize}
+		\subsubsection{Trump Era}
+			\begin{itemize}
+			\item	
+				\begin{itemize}
+				\item	
+				\end{itemize}
+			\end{itemize}
+		\subsubsection{Biden Era}
+			\begin{itemize}
+			\item	
+				\begin{itemize}
+				\item	
+				\end{itemize}
+			\end{itemize}
+	
+\section{US Policy in the Post-war Era with U.K.}
+		\begin{itemize}
+		\item	
+			\begin{itemize}
+				\item	
+			\end{itemize}
+		\end{itemize}
+		
+
+\section{US Policy with Eastern Countries in Late 20th Century}
+	\subsection{Japan}
+		\begin{itemize}
+		\item	
+			\begin{itemize}
+				\item	
+			\end{itemize}
+		\end{itemize}
+		
+	\subsection{Korea}
+		\begin{itemize}
+		\item	
+			\begin{itemize}
+				\item	
+			\end{itemize}
+		\end{itemize}
+		
+	\subsection{Hong Kong}
+		\begin{itemize}
+		\item	
+			\begin{itemize}
+				\item	
+			\end{itemize}
+		\end{itemize}
+		
+	\subsection{Taiwan}
+		\begin{itemize}
+		\item	
+			\begin{itemize}
+				\item	
+			\end{itemize}
+		\end{itemize}
+		
+		
+\section{Paper Summary}
+	\subsection{Innovation and Trade Policy}
+	
+	\subsection{Measurement of Innovation/ Tech Licensing}
+	
+	\subsection{Date Sources}
+	
+	Akcigit-ATes-Impullitti (2018) Innovation and Trade Policy in a Globalized World \cite{AkcigitAtesImpullitti2018}
+ 
+Ana Maria Santacreu’s papers (check her website):  
+Dynamic Gains from Trade Agreements with Intellectual Property Provisions \cite{Santacreu2022}
+International Technology Licensing, Intellectual Property Rights and Tax Havens \cite{Santacreu2023}
+Knowledge Diffusion, Trade and Innovation across Countries and Sectors  \cite{CaiLiSantacreu2022}
+ Innovation, Diffusion, and Trade: Theory and Measurement.  \cite{Santacreu2015}
+
+Linyi Cao, Helu Jiang, Guangwei Li, and Lijun Zhu. Haste makes waste? quantity-based subsidies under heterogeneous innovations. Journal of Monetary Economics, Forthcoming.\cite{CaoJiangLiZhu2023}
+
+
+
+
+
+\newpage
+
+\footnotesize
+\bibliographystyle{apalike}
+\bibliography{Tech_war}
+
+\end{document}

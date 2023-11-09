@@ -1,0 +1,1156 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.19)  3 OCT 2023 14:15
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**Tech_war_report_XING_Mingjie_0210.tex
+(./Tech_war_report_XING_Mingjie_0210.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24>
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count193
+\Gm@cntv=\count194
+\c@Gm@tempcnt=\count195
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks19
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count196
+))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen147
+\lightrulewidth=\dimen148
+\cmidrulewidth=\dimen149
+\belowrulesep=\dimen150
+\belowbottomsep=\dimen151
+\aboverulesep=\dimen152
+\abovetopsep=\dimen153
+\cmidrulesep=\dimen154
+\cmidrulekern=\dimen155
+\defaultaddspace=\dimen156
+\@cmidla=\count197
+\@cmidlb=\count198
+\@aboverulesep=\dimen157
+\@belowrulesep=\dimen158
+\@thisruleclass=\count199
+\@lastruleclass=\count266
+\@thisrulewidth=\dimen159
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/tools/array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen160
+\ar@mcellbox=\box50
+\extrarowheight=\dimen161
+\NC@list=\toks20
+\extratabsurround=\skip49
+\backup@length=\skip50
+\ar@cellbox=\box51
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/paralist/paralist.sty
+Package: paralist 2017/01/22 v2.7 Extended list environments
+\pltopsep=\skip51
+\plpartopsep=\skip52
+\plitemsep=\skip53
+\plparsep=\skip54
+\pl@lab=\toks21
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks22
+\verbatim@line=\toks23
+\verbatim@in@stream=\read2
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen162
+\captionmargin=\dimen163
+\caption@leftmargin=\dimen164
+\caption@rightmargin=\dimen165
+\caption@width=\dimen166
+\caption@indent=\dimen167
+\caption@parindent=\dimen168
+\caption@hangindent=\dimen169
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count267
+\c@continuedfloat=\count268
+)
+\c@KVtest=\count269
+\sf@farskip=\skip55
+\sf@captopadj=\dimen170
+\sf@capskip=\skip56
+\sf@nearskip=\skip57
+\c@subfigure=\count270
+\c@subfigure@save=\count271
+\c@lofdepth=\count272
+\c@subtable=\count273
+\c@subtable@save=\count274
+\c@lotdepth=\count275
+\sf@top=\skip58
+\sf@bottom=\skip59
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip60
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks24
+\ex@=\dimen171
+))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen172
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count276
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count277
+\leftroot@=\count278
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count279
+\DOTSCASE@=\count280
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box52
+\strutbox@=\box53
+\big@size=\dimen173
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count281
+\c@MaxMatrixCols=\count282
+\dotsspace@=\muskip16
+\c@parentequation=\count283
+\dspbrk@lvl=\count284
+\tag@help=\toks25
+\row@=\count285
+\column@=\count286
+\maxfields@=\count287
+\andhelp@=\toks26
+\eqnshift@=\dimen174
+\alignsep@=\dimen175
+\tagshift@=\dimen176
+\tagwidth@=\dimen177
+\totwidth@=\dimen178
+\lineht@=\dimen179
+\@envbody=\toks27
+\multlinegap=\skip61
+\multlinetaggap=\skip62
+\mathdisplay@stack=\toks28
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip63
+\enit@outerparindent=\dimen180
+\enit@toks=\toks29
+\enit@inbox=\box54
+\enit@count@id=\count288
+\enitdp@description=\count289
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks30
+\thm@bodyfont=\toks31
+\thm@headfont=\toks32
+\thm@notefont=\toks33
+\thm@headpunct=\toks34
+\thm@preskip=\skip64
+\thm@postskip=\skip65
+\thm@headsep=\skip66
+\dth@everypar=\toks35
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen181
+\Gin@req@width=\dimen182
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/filecontents/filecontents.sty
+Package: filecontents 2019/09/20 v1.5 Create an external file from within a LaT
+eX document
+
+
+Package filecontents Warning: This package is obsolete. Disabling it and
+(filecontents)                passing control to the filecontents environment
+(filecontents)                defined by the LaTeX kernel.
+
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip67
+\bibsep=\skip68
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count290
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/blindtext/blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count291
+\c@Blindtext=\count292
+\c@blind@countparstart=\count293
+\blind@countxx=\count294
+\blindtext@numBlindtext=\count295
+\blind@countyy=\count296
+\c@blindlist=\count297
+\c@blindlistlevel=\count298
+\c@blindlist@level=\count299
+\blind@listitem=\count300
+\c@blind@listcount=\count301
+\c@blind@levelcount=\count302
+\blind@mathformula=\count303
+\blind@Mathformula=\count304
+\c@blind@randomcount=\count305
+\c@blind@randommax=\count306
+\c@blind@pangramcount=\count307
+\c@blind@pangrammax=\count308
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box55
+\beforetitleunit=\skip69
+\aftertitleunit=\skip70
+\ttl@plus=\dimen183
+\ttl@minus=\dimen184
+\ttl@toksa=\toks36
+\titlewidth=\dimen185
+\titlewidthlast=\dimen186
+\titlewidthfirst=\dimen187
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip71
+\f@nch@O@elh=\skip72
+\f@nch@O@erh=\skip73
+\f@nch@O@olh=\skip74
+\f@nch@O@orh=\skip75
+\f@nch@O@elf=\skip76
+\f@nch@O@erf=\skip77
+\f@nch@O@olf=\skip78
+\f@nch@O@orf=\skip79
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/sectsty/sectsty.sty
+Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
+les
+
+
+LaTeX Warning: Command \underbar  has changed.
+               Check if current package is valid.
+
+
+LaTeX Warning: Command \underline  has changed.
+               Check if current package is valid.
+
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/tocbibind/tocbibind.sty
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has section divisions on input line 50.
+
+
+Package tocbibind Note: Using section or other style headings.
+
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has section divisions on input line 51.
+\cftparskip=\skip80
+\cftbeforetoctitleskip=\skip81
+\cftaftertoctitleskip=\skip82
+\cftbeforepartskip=\skip83
+\cftpartnumwidth=\skip84
+\cftpartindent=\skip85
+\cftbeforesecskip=\skip86
+\cftsecindent=\skip87
+\cftsecnumwidth=\skip88
+\cftbeforesubsecskip=\skip89
+\cftsubsecindent=\skip90
+\cftsubsecnumwidth=\skip91
+\cftbeforesubsubsecskip=\skip92
+\cftsubsubsecindent=\skip93
+\cftsubsubsecnumwidth=\skip94
+\cftbeforeparaskip=\skip95
+\cftparaindent=\skip96
+\cftparanumwidth=\skip97
+\cftbeforesubparaskip=\skip98
+\cftsubparaindent=\skip99
+\cftsubparanumwidth=\skip100
+\cftbeforeloftitleskip=\skip101
+\cftafterloftitleskip=\skip102
+\cftbeforefigskip=\skip103
+\cftfigindent=\skip104
+\cftfignumwidth=\skip105
+\cftbeforelottitleskip=\skip106
+\cftafterlottitleskip=\skip107
+\cftbeforetabskip=\skip108
+\cfttabindent=\skip109
+\cfttabnumwidth=\skip110
+\cftbeforesubfigskip=\skip111
+\cftsubfigindent=\skip112
+\cftsubfignumwidth=\skip113
+\cftbeforesubtabskip=\skip114
+\cftsubtabindent=\skip115
+\cftsubtabnumwidth=\skip116
+
+
+Package tocloft Warning: \@starttoc has already been redefined; tocloft bailing
+ out. on input line 1156.
+
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2022-02-21 v7.00n Hypertext links for LaTeX
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen188
+\Hy@linkcounter=\count309
+\Hy@pagecounter=\count310
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2022-02-21 v7.00n Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count311
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2022-02-21 v7.00n Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4018.
+Package hyperref Info: Option `bookmarks' set `false' on input line 4018.
+Package hyperref Info: Option `hypertexnames' set `true' on input line 4018.
+Package hyperref Info: Hyper figures OFF on input line 4137.
+Package hyperref Info: Link nesting OFF on input line 4142.
+Package hyperref Info: Hyper index ON on input line 4145.
+Package hyperref Info: Plain pages OFF on input line 4152.
+Package hyperref Info: Backreferencing OFF on input line 4157.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks OFF on input line 4396.
+\c@Hy@tempcnt=\count312
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4749.
+\XeTeXLinkMargin=\dimen189
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count313
+\Field@Width=\dimen190
+\Fld@charsize=\dimen191
+Package hyperref Info: Hyper figures OFF on input line 6027.
+Package hyperref Info: Link nesting OFF on input line 6032.
+Package hyperref Info: Hyper index ON on input line 6035.
+Package hyperref Info: backreferencing OFF on input line 6042.
+Package hyperref Info: Link coloring ON on input line 6045.
+Package hyperref Info: Link coloring with OCG OFF on input line 6052.
+Package hyperref Info: PDF/A mode OFF on input line 6057.
+LaTeX Info: Redefining \ref on input line 6097.
+LaTeX Info: Redefining \pageref on input line 6101.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count314
+\c@Item=\count315
+\c@Hfootnote=\count316
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2022-02-21 v7.00n Hyperref driver for pdfTeX
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count317
+\c@bookmark@seq@number=\count318
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip117
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count319
+\l__pdf_internal_box=\box56
+)
+(./Tech_war_report_XING_Mingjie_0210.aux)
+\openout1 = `Tech_war_report_XING_Mingjie_0210.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=418.25368pt
+* \textheight=591.5302pt
+* \oddsidemargin=17.3571pt
+* \evensidemargin=17.3571pt
+* \topmargin=-7.86334pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+(/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count320
+\scratchdimen=\dimen192
+\scratchbox=\box57
+\nofMPsegments=\count321
+\nofMParguments=\count322
+\everyMPshowfont=\toks37
+\MPscratchCnt=\count323
+\MPscratchDim=\dimen193
+\MPnumerator=\count324
+\makeMPintoPDFobject=\count325
+\everyMPtoPDFconversion=\toks38
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2021/12/07 v1.3c Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+)
+Package hyperref Info: Link coloring ON on input line 81.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
+ty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count326
+)
+LaTeX Info: Redefining \ref on input line 81.
+LaTeX Info: Redefining \pageref on input line 81.
+LaTeX Info: Redefining \nameref on input line 81.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 83.
+
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 83.
+
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(./Tech_war_report_XING_Mingjie_0210.toc)
+\tf@toc=\write3
+\openout3 = `Tech_war_report_XING_Mingjie_0210.toc'.
+
+ [1
+
+{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
+Overfull \hbox (214.10283pt too wide) in paragraph at lines 102--103
+[]\OT1/cmr/bx/n/12 Source\OT1/cmr/m/n/12 : [][]$\OT1/cmtt/m/n/12 https : / / ww
+w . latimes . com / business / la-[]xpm-[]2012-[]mar-[]14-[]la-[]fi-[]obama-[]c
+hina-[]20120314-[]story .
+ []
+
+
+Overfull \hbox (67.94489pt too wide) in paragraph at lines 102--103
+\OT1/cmtt/m/n/12 html$[][]\OT1/cmr/m/n/12 ; [][]$\OT1/cmtt/m/n/12 https : / / w
+ww . cfr . org / interview / challenging-[]chinas-[]trade-[]practices$[][]\OT1/
+cmr/m/n/12 ;
+ []
+
+
+Overfull \hbox (19.17773pt too wide) in paragraph at lines 109--110
+[]\OT1/cmr/bx/n/12 Source\OT1/cmr/m/n/12 : [][]$\OT1/cmtt/m/n/12 https : / / us
+tr . gov / about-[]us / policy-[]offices / press-[]office /
+ []
+
+
+Overfull \hbox (152.99596pt too wide) in paragraph at lines 109--110
+\OT1/cmtt/m/n/12 press-[]releases / 2017 / january / Obama-[]Administration-[]F
+iles-[]WTO-[]Complaint-[]China-[]Aluminum$[][] 
+ []
+
+
+Overfull \hbox (17.64572pt too wide) in paragraph at lines 111--112
+[]\OT1/cmr/m/n/12 More Obama Ad-min-is-tra-tion's trade en-force-ment record on
+ [][]$\OT1/cmtt/m/n/12 chrome-[]extension :
+ []
+
+
+Overfull \hbox (18.67122pt too wide) in paragraph at lines 111--112
+\OT1/cmtt/m/n/12 / / efaidnbmnnnibpcajpcglclefindmkaj / https : / / ustr . gov 
+/ sites / default /
+ []
+
+[3]
+Overfull \hbox (0.95459pt too wide) in paragraph at lines 121--122
+[]\OT1/cmr/bx/n/12 Source: [][]$\OT1/cmtt/m/n/12 https : / / www . bbc . com / 
+news / business-[]39197677$[][]\OT1/cmr/m/n/12 ; [][]$\OT1/cmtt/m/n/12 https : 
+/ /
+ []
+
+
+Overfull \hbox (13.23474pt too wide) in paragraph at lines 121--122
+\OT1/cmtt/m/n/12 www . reuters . com / article / us-[]usa-[]trade-[]china-[]zte
+-[]idUSKCN1J40PR$[][]\OT1/cmr/m/n/12 ;
+ []
+
+
+Overfull \hbox (51.33102pt too wide) in paragraph at lines 121--122
+[][]$\OT1/cmtt/m/n/12 https : / / www . bbc . com / news / business-[]44825878$
+[][]\OT1/cmr/m/n/12 ; [][]$\OT1/cmtt/m/n/12 https : / / www . globaltimes .
+ []
+
+
+Overfull \hbox (141.25279pt too wide) in paragraph at lines 129--130
+[]\OT1/cmr/bx/n/12 Source: [][]$\OT1/cmtt/m/n/12 https : / / www . reuters . co
+m / article / us-[]usa-[]trade-[]china-[]timeline-[]idUSKCN1UZ24U$[][]\OT1/cmr/
+m/n/12 ;
+ []
+
+
+Overfull \hbox (21.32089pt too wide) in paragraph at lines 129--130
+[][]$\OT1/cmtt/m/n/12 https : / / www . supplychaindive . com / news / tariff-[
+]tracker-[]trade-[]war /
+ []
+
+
+Overfull \hbox (73.22092pt too wide) in paragraph at lines 129--130
+\OT1/cmtt/m/n/12 article / 2159787 / china-[]says-[]us-[]tariffs-[]solar-[]pane
+ls-[]violate-[]trade-[]rules$[][] 
+ []
+
+
+Overfull \hbox (52.30275pt too wide) in paragraph at lines 137--138
+[]\OT1/cmr/bx/n/12 Source: [][]$\OT1/cmtt/m/n/12 https : / / apnews . com / art
+icle / 73e5e5aa7be2408892e9904d642d2137$[][]\OT1/cmr/m/n/12 ;
+ []
+
+
+Overfull \hbox (46.5209pt too wide) in paragraph at lines 137--138
+[][]$\OT1/cmtt/m/n/12 https : / / ustr . gov / about-[]us / policy-[]offices / 
+press-[]office / fact-[]sheets /
+ []
+
+
+Overfull \hbox (9.106pt too wide) in paragraph at lines 137--138
+\OT1/cmtt/m/n/12 2018 / march / section-[]301-[]fact-[]sheet$[][]\OT1/cmr/m/n/1
+2 ; [][]$\OT1/cmtt/m/n/12 https : / / www . cnbc . com / 2018 /
+ []
+
+
+Overfull \hbox (211.57098pt too wide) in paragraph at lines 137--138
+\OT1/cmtt/m/n/12 03 / 22 / trump-[]moves-[]to-[]slap-[]china-[]with-[]50-[]bill
+ion-[]in-[]tariffs-[]over-[]intellectual-[]property-[]theft .
+ []
+
+[4]
+Overfull \hbox (0.13887pt too wide) in paragraph at lines 145--146
+[]\OT1/cmr/bx/n/12 Source: [][]$\OT1/cmtt/m/n/12 https : / / www . scmp . com /
+ economy / china-[]economy / article /
+ []
+
+
+Overfull \hbox (52.78476pt too wide) in paragraph at lines 145--146
+\OT1/cmtt/m/n/12 3146489 / us-[]china-[]trade-[]war-[]timeline-[]key-[]dates-[]
+and-[]events-[]july-[]2018$[][]\OT1/cmr/m/n/12 ;
+ []
+
+
+Overfull \hbox (372.12106pt too wide) in paragraph at lines 145--146
+[][]$\OT1/cmtt/m/n/12 https : / / www . cnbc . com / 2018 / 03 / 22 / trump-[]m
+oves-[]to-[]slap-[]china-[]with-[]50-[]billion-[]in-[]tariffs-[]over-[]intellec
+tual-[]property-[]theft .
+ []
+
+
+Overfull \hbox (141.9334pt too wide) in paragraph at lines 153--154
+[]\OT1/cmr/bx/n/12 Source: [][]$\OT1/cmtt/m/n/12 https : / / www . reuters . co
+m / article / us-[]usa-[]trade-[]china-[]timeline-[]idUSKCN1UZ24U$[][]\OT1/cmr/
+m/n/12 ;
+ []
+
+
+Overfull \hbox (1.79588pt too wide) in paragraph at lines 153--154
+[][]$\OT1/cmtt/m/n/12 https : / / www . scmp . com / economy / china-[]economy 
+/ article / 3146489 /
+ []
+
+
+Overfull \hbox (0.12088pt too wide) in paragraph at lines 153--154
+\OT1/cmtt/m/n/12 us-[]china-[]trade-[]war-[]timeline-[]key-[]dates-[]and-[]even
+ts-[]july-[]2018$[][] 
+ []
+
+
+Overfull \hbox (452.50294pt too wide) in paragraph at lines 169--170
+[]\OT1/cmr/bx/n/12 Source: [][]$\OT1/cmtt/m/n/12 https : / / www . justice . go
+v / opa / pr / chinese-[]telecommunications-[]conglomerate-[]huawei-[]and-[]hua
+wei-[]cfo-[]wanzhou-[]meng-[]charged-[]financial$[][]\OT1/cmr/m/n/12 ;
+ []
+
+
+Overfull \hbox (1.79588pt too wide) in paragraph at lines 169--170
+[][]$\OT1/cmtt/m/n/12 http : / / www . xinhuanet . com / english / 2020-[]08 / 
+21 / c _ 139306059 . htm$[][] 
+ []
+
+[5]
+Overfull \hbox (0.81947pt too wide) in paragraph at lines 177--178
+[]\OT1/cmr/bx/n/12 Source: [][]$\OT1/cmtt/m/n/12 https : / / www . scmp . com /
+ economy / china-[]economy / article /
+ []
+
+
+Overfull \hbox (49.5209pt too wide) in paragraph at lines 177--178
+\OT1/cmtt/m/n/12 3146489 / us-[]china-[]trade-[]war-[]timeline-[]key-[]dates-[]
+and-[]events-[]july-[]2018$[][] 
+ []
+
+
+Overfull \hbox (138.66954pt too wide) in paragraph at lines 185--186
+[]\OT1/cmr/bx/n/12 Source: [][]$\OT1/cmtt/m/n/12 https : / / www . reuters . co
+m / article / us-[]usa-[]trade-[]china-[]timeline-[]idUSKCN1UZ24U$[][] 
+ []
+
+
+Overfull \hbox (26.01949pt too wide) in paragraph at lines 193--194
+[]\OT1/cmr/bx/n/12 Source: [][]$\OT1/cmtt/m/n/12 https : / / www . bbc . com / 
+zhongwen / trad / chinese-[]news-[]53738020$[][] 
+ []
+
+[6]
+Overfull \hbox (112.55838pt too wide) in paragraph at lines 201--202
+[]\OT1/cmr/bx/n/12 Source: [][]$\OT1/cmtt/m/n/12 https : / / www . prcleader . 
+org / post / china-[]s-[]response-[]to-[]the-[]u-[]s-[]trade-[]war$[][]\OT1/cmr
+/m/n/12 ;
+ []
+
+
+Overfull \hbox (1.79588pt too wide) in paragraph at lines 201--202
+[][]$\OT1/cmtt/m/n/12 https : / / www . scmp . com / economy / china-[]economy 
+/ article / 3146489 /
+ []
+
+
+Overfull \hbox (0.12088pt too wide) in paragraph at lines 201--202
+\OT1/cmtt/m/n/12 us-[]china-[]trade-[]war-[]timeline-[]key-[]dates-[]and-[]even
+ts-[]july-[]2018$[][] 
+ []
+
+
+Overfull \hbox (514.16972pt too wide) in paragraph at lines 212--213
+[]\OT1/cmr/bx/n/12 Source: [][]$\OT1/cmtt/m/n/12 https : / / www . reuters . co
+m / business / media-[]telecom / us-[]fcc-[]bans-[]equipment-[]sales-[]imports-
+[]zte-[]huawei-[]over-[]national-[]security-[]risk-[]2022-[]11-[]25/$[][] 
+ []
+
+
+Overfull \hbox (36.76389pt too wide) in paragraph at lines 220--221
+[]\OT1/cmr/bx/n/12 Source:  [][]$\OT1/cmtt/m/n/12 https : / / www . congress . 
+gov / bill / 117th-[]congress / house-[]bill /
+ []
+
+
+Overfull \hbox (1.431pt too wide) in paragraph at lines 220--221
+\OT1/cmtt/m/n/12 6256 ? q = %7B % 22search % 22 % 3A % 22H . R . 6256 % 22 % 7D
+ & s = 3 & r = 1$[][]\OT1/cmr/m/n/12 ; [][]$\OT1/cmtt/m/n/12 https : / /
+ []
+
+
+Overfull \hbox (247.121pt too wide) in paragraph at lines 220--221
+\OT1/cmtt/m/n/12 www . voacantonese . com / a / how-[]are-[]companies-[]dealing
+-[]with-[]uyghur-[]forced-[]labor-[]prevention-[]act-[]20220806 /
+ []
+
+
+Overfull \hbox (134.16278pt too wide) in paragraph at lines 226--227
+\OT1/cmr/m/n/12 vi-sory can be found in [][]$\OT1/cmtt/m/n/12 https : / / www .
+ state . gov / xinjiang-[]supply-[]chain-[]business-[]advisory/$[][]
+ []
+
+
+Overfull \hbox (11.79497pt too wide) in paragraph at lines 226--227
+\OT1/cmr/m/n/12 and en-tity list in [][]$\OT1/cmtt/m/n/12 https : / / www . fed
+eralregister . gov / documents / 2023 /
+ []
+
+
+Overfull \hbox (163.93481pt too wide) in paragraph at lines 226--227
+\OT1/cmtt/m/n/12 06 / 12 / 2023-[]12481 / notice-[]regarding-[]the-[]uyghur-[]f
+orced-[]labor-[]prevention-[]act-[]entity-[]list$[][]\OT1/cmr/m/n/12 .
+ []
+
+[7]
+Overfull \hbox (264.82785pt too wide) in paragraph at lines 228--229
+[]\OT1/cmr/bx/n/12 Source:  [][]$\OT1/cmtt/m/n/12 https : / / www . dhs . gov /
+ news / 2022 / 06 / 17 / dhs-[]releases-[]uyghur-[]forced-[]labor-[]prevention-
+[]act-[]strategy$[][]\OT1/cmr/m/n/12 ;
+ []
+
+
+Overfull \hbox (1.431pt too wide) in paragraph at lines 228--229
+[][]$\OT1/cmtt/m/n/12 https : / / www . globaltimes . cn / page / 202112 / 1243
+292 . shtml$[][]\OT1/cmr/m/n/12 ; [][]$\OT1/cmtt/m/n/12 https :
+ []
+
+
+Overfull \hbox (9.47089pt too wide) in paragraph at lines 228--229
+\OT1/cmtt/m/n/12 / / www . shu . ac . uk / helena-[]kennedy-[]centre-[]internat
+ional-[]justice /
+ []
+
+
+Overfull \hbox (433.8711pt too wide) in paragraph at lines 228--229
+\OT1/cmtt/m/n/12 / / www . aninews . in / news / world / us / us-[]blocked-[]im
+ports-[]worth-[]nearly-[]usd-[]500-[]million-[]due-[]to-[]uyghur-[]forced-[]lab
+our-[]report20230316221505/$[][] 
+ []
+
+[8]
+Overfull \hbox (2.38474pt too wide) in paragraph at lines 256--257
+\OT1/cmtt/m/n/12 our-[]insights / the-[]inflation-[]reduction-[]act-[]heres-[]w
+hats-[]in-[]it$[][]\OT1/cmr/m/n/12 ;
+ []
+
+
+Overfull \hbox (274.08487pt too wide) in paragraph at lines 256--257
+[][]$\OT1/cmtt/m/n/12 https : / / home . treasury . gov / news / featured-[]sto
+ries / the-[]inflation-[]reduction-[]act-[]and-[]us-[]business-[]investment$[][
+]\OT1/cmr/m/n/12 ;
+ []
+
+
+Overfull \hbox (102.73105pt too wide) in paragraph at lines 256--257
+[][]$\OT1/cmtt/m/n/12 https : / / www . politico . eu / article / trade-[]war-[
+]europe-[]us-[]tech/$[][]\OT1/cmr/m/n/12 ; [][]$\OT1/cmtt/m/n/12 chrome-[]exten
+sion :
+ []
+
+
+Overfull \hbox (25.9959pt too wide) in paragraph at lines 256--257
+\OT1/cmtt/m/n/12 / / efaidnbmnnnibpcajpcglclefindmkaj / https : / / www . europ
+arl . europa .
+ []
+
+
+Overfull \hbox (1.29588pt too wide) in paragraph at lines 256--257
+\OT1/cmtt/m/n/12 eu / RegData / etudes / IDAN / 2023 / 740087 / IPOL _ IDA(2023
+ ) 740087 _ EN .
+ []
+
+
+Overfull \hbox (64.0695pt too wide) in paragraph at lines 273--274
+[]\OT1/cmr/bx/n/12 Source: [][]$\OT1/cmtt/m/n/12 https : / / www . piie . com /
+ blogs / trade-[]and-[]investment-[]policy-[]watch /
+ []
+
+
+Overfull \hbox (8.97089pt too wide) in paragraph at lines 273--274
+\OT1/cmtt/m/n/12 / / edition . cnn . com / 2019 / 06 / 15 / economy / india-[]t
+ariffs-[]us-[]trump /
+ []
+
+
+Overfull \hbox (19.9796pt too wide) in paragraph at lines 281--282
+[]\OT1/cmr/bx/n/12 Source: [][]$\OT1/cmtt/m/n/12 https : / / www . cfr . org / 
+timeline / us-[]india-[]relations$[][]\OT1/cmr/m/n/12 ; [][]$\OT1/cmtt/m/n/12 h
+ttps :
+ []
+
+[9]
+Overfull \hbox (52.98335pt too wide) in paragraph at lines 302--303
+[]\OT1/cmr/bx/n/12 Source: [][]$\OT1/cmtt/m/n/12 https : / / apnews . com / art
+icle / b70651046273429c9eaa7afc1a88fc9b$[][]\OT1/cmr/m/n/12 ;
+ []
+
+
+Overfull \hbox (34.1709pt too wide) in paragraph at lines 302--303
+[][]$\OT1/cmtt/m/n/12 https : / / www . reuters . com / article / us-[]usa-[]tr
+ade-[]japan-[]idUSKBN1WM0A3$[][] 
+ []
+
+
+Overfull \hbox (64.0695pt too wide) in paragraph at lines 322--323
+[]\OT1/cmr/bx/n/12 Source: [][]$\OT1/cmtt/m/n/12 https : / / www . piie . com /
+ blogs / trade-[]and-[]investment-[]policy-[]watch /
+ []
+
+
+Overfull \hbox (3.431pt too wide) in paragraph at lines 322--323
+\OT1/cmtt/m/n/12 canada-[]strikes-[]back-[]here-[]breakdown$[][]\OT1/cmr/m/n/12
+ ; [][]$\OT1/cmtt/m/n/12 https : / / www . nytimes . com /
+ []
+
+
+Overfull \hbox (3.29588pt too wide) in paragraph at lines 322--323
+\OT1/cmtt/m/n/12 2018 / 06 / 05 / us / politics / trump-[]trade-[]canada-[]mexi
+co-[]nafta . html$[][] 
+ []
+
+
+Overfull \hbox (37.26389pt too wide) in paragraph at lines 329--330
+[]\OT1/cmr/bx/n/12 Source:  [][]$\OT1/cmtt/m/n/12 https : / / ustr . gov / trad
+e-[]agreements / free-[]trade-[]agreements /
+ []
+
+
+Overfull \hbox (84.20604pt too wide) in paragraph at lines 329--330
+\OT1/cmtt/m/n/12 united-[]states-[]mexico-[]canada-[]agreement$[][]\OT1/cmr/m/n
+/12 ; [][]$\OT1/cmtt/m/n/12 https : / / ustr . gov / trade-[]agreements /
+ []
+
+
+Overfull \hbox (10.47089pt too wide) in paragraph at lines 329--330
+\OT1/cmtt/m/n/12 free-[]trade-[]agreements / united-[]states-[]mexico-[]canada-
+[]agreement /
+ []
+
+
+Overfull \hbox (63.81615pt too wide) in paragraph at lines 329--330
+\OT1/cmtt/m/n/12 agreement-[]between$[][]\OT1/cmr/m/n/12 ; [][]$\OT1/cmtt/m/n/1
+2 https : / / ustr . gov / usmca$[][]\OT1/cmr/m/n/12 ; [][]$\OT1/cmtt/m/n/12 ht
+tps : / / www . supplychaindive .
+ []
+
+[10]
+Overfull \hbox (201.41957pt too wide) in paragraph at lines 339--340
+[]\OT1/cmr/bx/n/12 Source: [][]$\OT1/cmtt/m/n/12 https : / / www . energymonito
+r . ai / policy / canadas-[]ira-[]response-[]an-[]80bn-[]clean-[]energy-[]plan/
+$[][] 
+ []
+
+
+Overfull \hbox (377.58351pt too wide) in paragraph at lines 346--347
+[]\OT1/cmr/bx/n/12 Source: [][]$\OT1/cmtt/m/n/12 https : / / apnews . com / art
+icle / science-[]mexico-[]caribbean-[]united-[]states-[]global-[]trade-[]be70dd
+bfbc17622dcc732618906feaa0$[][]\OT1/cmr/m/n/12 ;
+ []
+
+
+Overfull \hbox (242.70985pt too wide) in paragraph at lines 346--347
+[][]$\OT1/cmtt/m/n/12 https : / / apnews . com / article / mexico-[]us-[]canada
+-[]gmo-[]corn-[]usmca-[]trade-[]0132baa2f950dacdde7de41a611bcb58$[][]\OT1/cmr/m
+/n/12 ;
+ []
+
+
+Overfull \hbox (251.296pt too wide) in paragraph at lines 346--347
+[][]$\OT1/cmtt/m/n/12 https : / / apnews . com / article / mexico-[]tariff-[]co
+rn-[]canada-[]united-[]states-[]48b414c2dafdff8543223f88fc7bc7a7$[][] 
+ []
+
+
+Overfull \hbox (63.5695pt too wide) in paragraph at lines 359--360
+[]\OT1/cmr/bx/n/12 Source: [][]$\OT1/cmtt/m/n/12 https : / / www . investopedia
+ . com / terms / s / smoot-[]hawley-[]tariff-[]act .
+ []
+
+[11]
+Overfull \hbox (12.66948pt too wide) in paragraph at lines 372--373
+[]\OT1/cmr/bx/n/12 Source: [][]$\OT1/cmtt/m/n/12 https : / / www . eaerweb . or
+g / selectArticleInfo . do ? article _
+ []
+
+
+Overfull \hbox (12.66948pt too wide) in paragraph at lines 380--381
+[]\OT1/cmr/bx/n/12 Source: [][]$\OT1/cmtt/m/n/12 https : / / www . eaerweb . or
+g / selectArticleInfo . do ? article _
+ []
+
+
+Overfull \hbox (100.73105pt too wide) in paragraph at lines 380--381
+\OT1/cmtt/m/n/12 a _ no = JE0001 _ 2020 _ v24n4 _ 349 & ano = JE0001 _ 2020 _ v
+24n4 _ 349 # T001$[][]\OT1/cmr/m/n/12 ; [][]$\OT1/cmtt/m/n/12 chrome-[]extensio
+n :
+ []
+
+
+Overfull \hbox (32.1709pt too wide) in paragraph at lines 380--381
+\OT1/cmtt/m/n/12 / / efaidnbmnnnibpcajpcglclefindmkaj / https : / / www . jstor
+ . org / stable /
+ []
+
+
+Overfull \hbox (75.39592pt too wide) in paragraph at lines 380--381
+\OT1/cmtt/m/n/12 pdf / 25063126 . pdf ? refreqid = excelsior % 3Aa544f1796127e4
+af84dad4c7dae18c25 &
+ []
+
+[12]
+Overfull \hbox (15.29904pt too wide) in paragraph at lines 389--390
+[]\OT1/cmr/bx/n/12 Act:  \OT1/cmr/m/n/12 Fol-low-ing Mi-cron's an-tidump-ing pe
+-ti-tion against Sam-sung, Hyundai
+ []
+
+
+Overfull \hbox (12.66948pt too wide) in paragraph at lines 391--392
+[]\OT1/cmr/bx/n/12 Source: [][]$\OT1/cmtt/m/n/12 https : / / www . eaerweb . or
+g / selectArticleInfo . do ? article _
+ []
+
+
+Overfull \hbox (24.13904pt too wide) in paragraph at lines 391--392
+\OT1/cmtt/m/n/12 a _ no = JE0001 _ 2020 _ v24n4 _ 349 & ano = JE0001 _ 2020 _ v
+24n4 _ 349 # T001$[][]\OT1/cmr/m/n/12 ; [][]Bown[][]
+ []
+
+
+Overfull \hbox (154.7834pt too wide) in paragraph at lines 411--412
+[]\OT1/cmr/bx/n/12 Source: [][]$\OT1/cmtt/m/n/12 https : / / www . asiaglobalon
+line . hku . hk / what-[]next-[]hong-[]kong-[]united-[]states-[]trade$[][]\OT1/
+cmr/m/n/12 ;
+ []
+
+
+Overfull \hbox (20.82089pt too wide) in paragraph at lines 411--412
+[][]$\OT1/cmtt/m/n/12 https : / / www . congress . gov / bill / 102nd-[]congres
+s / senate-[]bill / 1731 /
+ []
+
+[13] [14] (./Tech_war_report_XING_Mingjie_0210.bbl)
+Overfull \hbox (4.83904pt too wide) in paragraph at lines 457--458
+\OT1/cmr/m/n/10 NBER [][]$\OT1/cmtt/m/n/10 chrome-[]extension : / / efaidnbmnnn
+ibpcajpcglclefindmkaj / https : / / www . nber .
+ []
+
+
+Overfull \hbox (60.7295pt too wide) in paragraph at lines 458--459
+[]\OT1/cmr/m/n/10 Trump's Trade War Time-line [][]$\OT1/cmtt/m/n/10 https : / /
+ www . piie . com / blogs / trade-[]and-[]investment-[]policy-[]watch /
+ []
+
+
+Overfull \hbox (12.61754pt too wide) in paragraph at lines 459--460
+[][]$\OT1/cmtt/m/n/10 https : / / policy . trade . ec . europa . eu / eu-[]trad
+e-[]relationships-[]country-[]and-[]region /
+ []
+
+[15] (./Tech_war_report_XING_Mingjie_0210.aux) ) 
+Here is how much of TeX's memory you used:
+ 13992 strings out of 478268
+ 224256 string characters out of 5846347
+ 531729 words of memory out of 5000000
+ 31951 multiletter control sequences out of 15000+600000
+ 480022 words of font info for 70 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 69i,11n,79p,1222b,519s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/usr/local/texlive/2022/texmf-
+dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2022/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2022/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2022/texmf-dist/font
+s/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2022/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2022/texmf-dist/fonts/
+type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2022/texmf-dist/fonts/ty
+pe1/public/cm-super/sfrm1200.pfb>
+Output written on Tech_war_report_XING_Mingjie_0210.pdf (15 pages, 169220 bytes
+).
+PDF statistics:
+ 333 PDF objects out of 1000 (max. 8388607)
+ 295 compressed objects within 3 object streams
+ 50 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
